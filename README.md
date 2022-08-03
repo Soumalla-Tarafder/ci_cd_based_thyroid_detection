@@ -36,5 +36,9 @@ Tp push in github
 ```
 git push origin main
 ```
+To set remote url
+```
+git remote set-url origin <github url>
+```
 
 
