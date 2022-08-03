@@ -27,4 +27,14 @@ TO track all the files
 git add .
 ```
 
+TO commit in git
+```
+git commit -m "message"
+```
+
+Tp push in github
+```
+git push origin main
+```
+
 
